@@ -1,0 +1,1 @@
+# clube.de.xadrez.maringa
