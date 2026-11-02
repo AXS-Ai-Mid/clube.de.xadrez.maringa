@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://axs-ai-mid.github.io/clube.de.xadrez.maringa/sitemap.xml
