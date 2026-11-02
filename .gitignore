@@ -1,0 +1,14 @@
+# Sistema / editores
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Dependências e artefatos (o site não precisa de build)
+node_modules/
+dist/
+.cache/
+
+# Originais de imagens em alta resolução (mantenha fora do repositório)
+_originals/
