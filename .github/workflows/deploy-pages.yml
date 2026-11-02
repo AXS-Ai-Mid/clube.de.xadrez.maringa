@@ -31,6 +31,9 @@ jobs:
 
       - name: Configurar Pages
         uses: actions/configure-pages@v5
+        with:
+          # tenta ativar o GitHub Pages automaticamente caso ainda não esteja ativo
+          enablement: true
 
       - name: Empacotar site (raiz do repositório)
         uses: actions/upload-pages-artifact@v3
